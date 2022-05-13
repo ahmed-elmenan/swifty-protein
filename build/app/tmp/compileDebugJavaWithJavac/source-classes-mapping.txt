@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/swifty_protein/BuildConfig.java
+ com.example.swifty_protein.BuildConfig

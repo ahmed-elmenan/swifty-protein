@@ -1,4 +1,0 @@
-#Fri May 13 22:54:35 WEST 2022
-base.0=/Users/ahmedelmenan/Desktop/swifty_protein/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

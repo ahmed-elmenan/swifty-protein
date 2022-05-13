@@ -82,7 +82,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		dxOjZm2lupU+9DIO9D0gcofiQp8=
+		bavOX3fotGcrqQMIMAnxutJCq5E=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		XHLlM9pT+97iAjDBA4fgnr3XW/Y=
+		ZmGEs9DQqIAJwXzllrc1gRbk9Q8=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		DdzGc9vq3yEPAVZkpQNRELhqqlU=
+		YYWhwxEWnI1p8ugtzL+KNKIGwtE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		mPZP1UwETYqBK2hZtesYyDFZFNI=
+		0nPUx6YCJovdDnjGsDQzmvZ74OU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		LOQix5hTPeRyQ8RJUWx904vK3yU=
+		TohplxwQG1UXYPGKXiBbHcFYiYQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		tgJ+3rtE2/NA0SSUtS3Sl7tOjsE=
+		sQX84bZxUy0YGHTD2nCyA86x6Mc=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -235,18 +235,6 @@
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
 		1QumeTTkdhWvmY7i40QoJewEapE=
-		</data>
-		<key>Frameworks/local_auth_ios.framework/Info.plist</key>
-		<data>
-		xLGuTiteTsA/iKfmN5aGTWgxovg=
-		</data>
-		<key>Frameworks/local_auth_ios.framework/_CodeSignature/CodeResources</key>
-		<data>
-		FVdLE9LMsgZgNJm8sE825qcChmQ=
-		</data>
-		<key>Frameworks/local_auth_ios.framework/local_auth_ios</key>
-		<data>
-		4Y9A+4HNdmkCo+xjA0g+EEsowZk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -396,7 +384,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yNg2cR/2MlaDiBa0wBBfz5nCoUCObxXrVZGaAdEL4Ig=
+			I2v4PYFuX68TWumLiZ1i1GkruKS4HLUICKooO+maemo=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -445,7 +433,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kaYHpq/srKE1TI9QttBLmDMqrAA9+3e53f0qeuuMlc4=
+			jGdJsrLhcDoXF3ZEInphc3h6qOHJ85GKidyFR6jz0qo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -459,7 +447,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WTkTRvHABfoiNRyy3ieK4b62QKwaFqYwRRfou5yXkVA=
+			fOILkYpPgwNSCkg7NZYiDRHYXqYBKUbu4iig+EMhg8Y=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -480,7 +468,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xGRdEKrxBiMAZkDZ6uVbQ6O9J9C/tfnm0e9fsDiu8eM=
+			BGLFKlogl+A1qR133KEBIP83v5xH3sPPtYGxGGZWPY8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -501,7 +489,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l4AqcDvM/dzyNHhqJymVCQxAAUYRz2HSzBDU/56FgHc=
+			J+lrNbU683E6LsmTctbShpy/0+QnkqiGwfxmv1rB9L8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -522,7 +510,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v7q2uPAbamTrjIDsUx7xV+QHYSHAEh2tNu7Pbb4CkqY=
+			UX0Ajw9FlYtK7hEbT8RSqqSli30VUvn4jcP3Jl8iTNM=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -663,27 +651,6 @@
 			<key>hash2</key>
 			<data>
 			Y7sS66zRuTsBvhoY8E7AmSrn+3DMMIOCUocmE2apBcw=
-			</data>
-		</dict>
-		<key>Frameworks/local_auth_ios.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			O+I4NgWICtTF/AltCiT4Osq/GXoS6OpqvY54KdyAYDE=
-			</data>
-		</dict>
-		<key>Frameworks/local_auth_ios.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yt5KPw+GQ8QLijnyfVDb0OzJR5AMzXJjy+PtyH1z+HE=
-			</data>
-		</dict>
-		<key>Frameworks/local_auth_ios.framework/local_auth_ios</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZLQcffXjuCvApcQMULX8TnIwvjoStilmr/7mWp4r4yU=
 			</data>
 		</dict>
 	</dict>
